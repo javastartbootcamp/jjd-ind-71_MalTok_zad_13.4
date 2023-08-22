@@ -7,8 +7,7 @@ public class Main {
         // tutaj możesz przeprowadzać manualne testy listy
 
         // lista powinna być parametryzowana (analogicznie jak java.util.ArrayList czy java.util.LinkedList)
-        CustomList<String> customListOfStrings = new CustomList();
-        CustomList<Integer> customListOfIntegers = new CustomList();
-
+        CustomList<String> customListOfStrings = new CustomList<>();
+        CustomList<Integer> customListOfIntegers = new CustomList<>();
     }
 }
